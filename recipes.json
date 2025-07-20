@@ -1,0 +1,286 @@
+{
+  "butter_chicken": {
+    "name": "Butter Chicken",
+    "description": "A rich and creamy tomato-based chicken curry, popular in North India and known for its smooth buttery texture.",
+    "prep_time": "15 mins",
+    "cook_time": "35 mins",
+    "region": "North Indian",
+    "difficulty": "Medium",
+    "spice_level": "Mild",
+    "serves": 4,
+    "dietary": "Non-Vegetarian",
+    "ingredients": [
+      "500g chicken (boneless)",
+      "1 cup yogurt",
+      "2 tsp ginger garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp turmeric",
+      "3 tbsp butter",
+      "1 onion",
+      "2 tomatoes",
+      "1/2 cup cream",
+      "1 tsp garam masala",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt, turmeric, chili powder, and salt for 1 hour.",
+      "Cook chicken in a pan until golden brown. Set aside.",
+      "In another pan, heat butter and sauté onions, then add tomatoes and spices.",
+      "Blend the cooked mixture, return to pan, and add cream.",
+      "Add chicken and simmer for 15 mins. Serve hot with naan or rice."
+    ],
+    "tags": ["murgh makhani", "butter chiken", "butr chicken", "north indian", "creamy curry", "punjabi", "mild", "chicken curry"]
+  },
+
+  "palak_paneer": {
+    "name": "Palak Paneer",
+    "description": "A nutritious and flavorful spinach-based curry cooked with cubes of Indian cottage cheese.",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "region": "North Indian",
+    "difficulty": "Easy",
+    "spice_level": "Mild",
+    "serves": 4,
+    "dietary": "Vegetarian",
+    "ingredients": [
+      "200g paneer",
+      "2 cups spinach leaves",
+      "1 onion",
+      "2 tomatoes",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp cumin",
+      "1/2 tsp garam masala",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Blanch spinach and blend to a paste.",
+      "Sauté onion, ginger garlic paste, and tomatoes.",
+      "Add spinach paste and spices, simmer.",
+      "Add paneer cubes and cook for 5 mins.",
+      "Serve hot with roti or rice."
+    ],
+    "tags": ["spinach paneer", "palak paner", "palak pnerr", "green curry", "vegetarian", "healthy", "north indian"]
+  },
+
+  "masala_dosa": {
+    "name": "Masala Dosa",
+    "description": "A crisp fermented rice crepe filled with spicy mashed potatoes, a famous South Indian delicacy.",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "region": "South Indian",
+    "difficulty": "Medium",
+    "spice_level": "Medium",
+    "serves": 3,
+    "dietary": "Vegetarian",
+    "ingredients": [
+      "2 cups dosa batter",
+      "2 boiled potatoes",
+      "1 onion",
+      "1/2 tsp mustard seeds",
+      "1 green chili",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "Oil"
+    ],
+    "instructions": [
+      "Heat oil, splutter mustard seeds, sauté onions and chilies.",
+      "Add mashed potatoes, turmeric, and salt.",
+      "Spread dosa batter on a hot tawa, drizzle oil.",
+      "Place filling in the center, fold and serve with chutney."
+    ],
+    "tags": ["masal dosa", "dosai", "south indian", "potato dosa", "fermented crepe", "crispy dosa", "vegetarian", "breakfast"]
+  },
+
+  "biryani": {
+    "name": "Chicken Biryani",
+    "description": "A spiced rice dish layered with marinated chicken, herbs, and saffron, slow-cooked to perfection.",
+    "prep_time": "30 mins",
+    "cook_time": "45 mins",
+    "region": "Hyderabadi",
+    "difficulty": "Hard",
+    "spice_level": "High",
+    "serves": 5,
+    "dietary": "Non-Vegetarian",
+    "ingredients": [
+      "2 cups basmati rice",
+      "500g chicken",
+      "1 cup yogurt",
+      "1 onion",
+      "Whole spices (cloves, cardamom, cinnamon)",
+      "Saffron milk",
+      "Mint, coriander",
+      "Salt and chili powder"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt and spices.",
+      "Cook rice till 70% done. Fry onions.",
+      "Layer rice and chicken in pot with herbs.",
+      "Top with saffron milk and ghee.",
+      "Cook on low heat for 30 mins. Serve hot."
+    ],
+    "tags": ["biriyani", "biryiani", "rice chicken", "hydrabadi", "dum biryani", "spicy", "mughlai"]
+  },
+
+  "aloo_gobi": {
+    "name": "Aloo Gobi",
+    "description": "A dry stir-fry made with potatoes and cauliflower, seasoned with Indian spices.",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "region": "North Indian",
+    "difficulty": "Easy",
+    "spice_level": "Medium",
+    "serves": 4,
+    "dietary": "Vegan",
+    "ingredients": [
+      "2 potatoes",
+      "1 small cauliflower",
+      "1 onion",
+      "1/2 tsp cumin",
+      "1 tsp turmeric",
+      "1/2 tsp chili powder",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds, onions.",
+      "Add potatoes and cauliflower.",
+      "Add spices, cover and cook till soft.",
+      "Serve with roti or rice."
+    ],
+    "tags": ["aloo gobhi", "gobhi aloo", "vegan curry", "dry sabzi", "north indian", "cauliflower curry"]
+  },
+
+  "samosa": {
+    "name": "Samosa",
+    "description": "A deep-fried pastry filled with spiced potatoes and peas, served as a snack.",
+    "prep_time": "25 mins",
+    "cook_time": "30 mins",
+    "region": "Pan-Indian",
+    "difficulty": "Medium",
+    "spice_level": "Medium",
+    "serves": 4,
+    "dietary": "Vegetarian",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "3 boiled potatoes",
+      "1/2 cup peas",
+      "1/2 tsp cumin",
+      "1/2 tsp garam masala",
+      "Oil and salt"
+    ],
+    "instructions": [
+      "Prepare dough with flour, oil, and water.",
+      "Sauté filling with mashed potatoes and peas.",
+      "Shape dough into cones, fill, and seal.",
+      "Deep-fry till golden brown. Serve with chutney."
+    ],
+    "tags": ["samosha", "samosaa", "fried snack", "street food", "snack", "stuffed pastry", "aloo filling"]
+  },
+
+  "rajma": {
+    "name": "Rajma",
+    "description": "A comfort food made from red kidney beans in a thick tomato-based curry.",
+    "prep_time": "10 mins",
+    "cook_time": "30 mins",
+    "region": "North Indian",
+    "difficulty": "Easy",
+    "spice_level": "Medium",
+    "serves": 4,
+    "dietary": "Vegetarian",
+    "ingredients": [
+      "1 cup rajma (kidney beans)",
+      "1 onion",
+      "2 tomatoes",
+      "1 tsp ginger garlic paste",
+      "1/2 tsp cumin",
+      "1 tsp garam masala",
+      "Salt and chili powder"
+    ],
+    "instructions": [
+      "Soak rajma overnight and pressure cook.",
+      "Sauté onion, garlic, tomatoes and spices.",
+      "Add rajma and simmer 15 mins.",
+      "Serve hot with rice."
+    ],
+    "tags": ["rajmaa", "kidney bean curry", "punjabi", "comfort food", "vegetarian", "beans curry"]
+  },
+
+  "idli": {
+    "name": "Idli",
+    "description": "Steamed rice cakes made from fermented batter, a staple breakfast in South India.",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "region": "South Indian",
+    "difficulty": "Easy",
+    "spice_level": "None",
+    "serves": 3,
+    "dietary": "Vegan",
+    "ingredients": [
+      "2 cups idli rice",
+      "1 cup urad dal",
+      "Salt",
+      "Water"
+    ],
+    "instructions": [
+      "Soak rice and dal separately and grind.",
+      "Ferment batter overnight.",
+      "Pour into idli molds and steam for 10 mins.",
+      "Serve with chutney or sambar."
+    ],
+    "tags": ["idlly", "idlli", "rice cake", "south indian", "steamed", "breakfast", "vegan", "no spice"]
+  },
+
+  "poha": {
+    "name": "Poha",
+    "description": "A quick Maharashtrian breakfast made with flattened rice, peanuts, and spices.",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "region": "Maharashtrian",
+    "difficulty": "Easy",
+    "spice_level": "Low",
+    "serves": 2,
+    "dietary": "Vegan",
+    "ingredients": [
+      "1 cup flattened rice (poha)",
+      "1 onion",
+      "1/2 tsp mustard seeds",
+      "1 green chili",
+      "Handful peanuts",
+      "Salt, turmeric, lemon"
+    ],
+    "instructions": [
+      "Rinse poha and drain.",
+      "Heat oil, add mustard seeds, chilies, onions, peanuts.",
+      "Add poha, turmeric, salt and mix.",
+      "Top with lemon and serve."
+    ],
+    "tags": ["powa", "flattened rice", "light breakfast", "indian snack", "quick recipe", "vegan"]
+  },
+
+  "paneer_tikka": {
+    "name": "Paneer Tikka",
+    "description": "Chunks of paneer marinated in spices and grilled or baked, served with mint chutney.",
+    "prep_time": "20 mins",
+    "cook_time": "15 mins",
+    "region": "North Indian",
+    "difficulty": "Medium",
+    "spice_level": "Medium",
+    "serves": 3,
+    "dietary": "Vegetarian",
+    "ingredients": [
+      "200g paneer",
+      "1/2 cup yogurt",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric",
+      "1/2 tsp garam masala",
+      "1 tsp ginger garlic paste",
+      "Salt and oil"
+    ],
+    "instructions": [
+      "Mix all spices with yogurt to make marinade.",
+      "Add paneer cubes and marinate for 1 hour.",
+      "Skewer and grill or bake until charred.",
+      "Serve with chutney."
+    ],
+    "tags": ["panneer tikka", "grilled paneer", "tandoori paneer", "starter", "bbq", "vegetarian", "north indian"]
+  }
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "timestamp": "2025-07-19T14:19:18.270311",
+    "user": "hello",
+    "bot": "Hello! I'm your cooking assistant. I've learned 10 of your recipes. What would you like to cook today?"
+  },
+  {
+    "timestamp": "2025-07-19T14:19:26.407510",
+    "user": "I want to cook shahi paneer",
+    "bot": "I know how to make Palak Paneer! It's a North Indian dish.\n\nIngredients:\n\u2022 200g paneer\n\u2022 2 cups spinach leaves\n\u2022 1 onion\n\u2022 2 tomatoes\n\u2022 1 tsp ginger garlic paste\n\nWould you like the full recipe with instructions?"
+  },
+  {
+    "timestamp": "2025-07-19T14:19:37.489454",
+    "user": "I want to conversate with you",
+    "bot": "I'm here to chat about cooking! Ask me about recipes, ingredients, or cooking techniques. What's on your mind?"
+  },
+  {
+    "timestamp": "2025-07-19T14:19:53.462240",
+    "user": "nothing",
+    "bot": "Hello! I'm your cooking assistant. I've learned 10 of your recipes. What would you like to cook today?"
+  },
+  {
+    "timestamp": "2025-07-19T14:19:58.377744",
+    "user": "I want to cook",
+    "bot": "I can help you make: Butter Chicken, Palak Paneer, Masala Dosa. What sounds good to you?"
+  },
+  {
+    "timestamp": "2025-07-19T14:20:01.682568",
+    "user": "nothing",
+    "bot": "Hello! I'm your cooking assistant. I've learned 10 of your recipes. What would you like to cook today?"
+  },
+  {
+    "timestamp": "2025-07-19T14:20:04.009597",
+    "user": "hi",
+    "bot": "Hello! I'm your cooking assistant. I've learned 10 of your recipes. What would you like to cook today?"
+  },
+  {
+    "timestamp": "2025-07-19T14:27:57.871049",
+    "user": "what is your name",
+    "bot": "I'd love to chat about cooking! I know 10 of your recipes and I'm always excited to discuss food, techniques, ingredients, or anything culinary. What's on your mind?"
+  },
+  {
+    "timestamp": "2025-07-19T14:28:07.312446",
+    "user": "who are you",
+    "bot": "I'd love to chat about cooking! I know 10 of your recipes and I'm always excited to discuss food, techniques, ingredients, or anything culinary. What's on your mind?"
+  },
+  {
+    "timestamp": "2025-07-19T14:28:12.157965",
+    "user": "i am steve",
+    "bot": "I'd love to chat about cooking! I know 10 of your recipes and I'm always excited to discuss food, techniques, ingredients, or anything culinary. What's on your mind?"
+  },
+  {
+    "timestamp": "2025-07-19T14:28:39.104310",
+    "user": "food",
+    "bot": "I'd love to chat about cooking! I know 10 of your recipes and I'm always excited to discuss food, techniques, ingredients, or anything culinary. What's on your mind?"
+  },
+  {
+    "timestamp": "2025-07-19T14:28:45.270794",
+    "user": "good fod",
+    "bot": "I'd love to chat about cooking! I know 10 of your recipes and I'm always excited to discuss food, techniques, ingredients, or anything culinary. What's on your mind?"
+  },
+  {
+    "timestamp": "2025-07-19T14:47:39.001937",
+    "user": "hello",
+    "bot": "Hello! I've learned 10 of your recipes and I'm excited to chat about cooking. What's on your mind today?"
+  },
+  {
+    "timestamp": "2025-07-19T14:47:46.001725",
+    "user": "who r u",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:47:53.632246",
+    "user": "i am steve",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:47:56.357571",
+    "user": "cool",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:47:58.514234",
+    "user": "right",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:47:59.974046",
+    "user": "chana",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:48:01.538171",
+    "user": "dja",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:48:04.019764",
+    "user": "paneer",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:48:10.996302",
+    "user": "make paneer",
+    "bot": "I can help you with recipes! I know: Butter Chicken, Palak Paneer, Masala Dosa and more. Which interests you, or what would you like to cook?"
+  },
+  {
+    "timestamp": "2025-07-19T14:48:17.785633",
+    "user": "palak",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:48:21.696456",
+    "user": "palak paneer",
+    "bot": "I'm here to chat about all things cooking! I've learned from 10 of your recipes so far. What would you like to discuss - ingredients, techniques, meal planning, or something else?"
+  },
+  {
+    "timestamp": "2025-07-19T14:48:27.371972",
+    "user": "ingredients",
+    "bot": "I love talking about ingredients and spices, especially for Indian cuisine! What specific ingredient or substitution question do you have?"
+  },
+  {
+    "timestamp": "2025-07-19T21:10:50.082461",
+    "user": "how r u doing",
+    "bot": "I'm not sure I fully understand, but I'm here to help! Could you tell me more about what you're looking for?"
+  },
+  {
+    "timestamp": "2025-07-19T21:10:55.681365",
+    "user": "your mom",
+    "bot": "I'm not sure I fully understand, but I'm here to help! Could you tell me more about what you're looking for?"
+  },
+  {
+    "timestamp": "2025-07-19T21:10:59.268302",
+    "user": "choboi",
+    "bot": "I'm here to chat! What would you like to talk about? Cooking questions are my forte, but I'm open to other topics too."
+  },
+  {
+    "timestamp": "2025-07-19T21:11:00.403350",
+    "user": "kjbkj",
+    "bot": "That's interesting! While cooking is my specialty, I'm happy to chat about other topics. Can you elaborate?"
+  },
+  {
+    "timestamp": "2025-07-19T21:11:05.341417",
+    "user": "yeah",
+    "bot": "I'm here to chat! What would you like to talk about? Cooking questions are my forte, but I'm open to other topics too."
+  },
+  {
+    "timestamp": "2025-07-19T21:11:11.964856",
+    "user": "what is the weather",
+    "bot": "That's an interesting question! While I'm most knowledgeable about cooking, I can try to help with general questions too. What would you like to know?"
+  },
+  {
+    "timestamp": "2025-07-19T21:11:15.605356",
+    "user": "2+3",
+    "bot": "I'm not great with complex math, but I can help with cooking measurements and conversions! Or feel free to ask me about anything else."
+  },
+  {
+    "timestamp": "2025-07-19T21:11:20.084090",
+    "user": "8",
+    "bot": "I'm here and working! Feel free to ask me anything - cooking questions are my specialty, but I can chat about other topics too."
+  },
+  {
+    "timestamp": "2025-07-19T21:11:27.141000",
+    "user": "how to make food",
+    "bot": "Great! I can help with cooking. I know your recipes like: Butter Chicken, Palak Paneer, Masala Dosa. What would you like to know?"
+  },
+  {
+    "timestamp": "2025-07-19T21:11:31.458603",
+    "user": "masal dosa",
+    "bot": "I'm not sure I fully understand, but I'm here to help! Could you tell me more about what you're looking for?"
+  }
+]

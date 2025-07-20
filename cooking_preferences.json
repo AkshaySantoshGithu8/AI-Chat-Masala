@@ -1,0 +1,51 @@
+{
+  "analysis_date": "2025-07-19T21:28:39.515390",
+  "total_recipes": 10,
+  "patterns": {
+    "favorite_cuisines": {
+      "north indian": 5,
+      "south indian": 2,
+      "hyderabadi": 1,
+      "pan-indian": 1,
+      "maharashtrian": 1
+    },
+    "spice_preferences": {
+      "medium": 5,
+      "mild": 2,
+      "high": 1,
+      "none": 1,
+      "low": 1
+    },
+    "cooking_methods": {},
+    "common_ingredients": {
+      "1 onion": 7,
+      "salt to taste": 4,
+      "1/2 tsp cumin": 4,
+      "2 tomatoes": 3,
+      "1 tsp ginger garlic paste": 3,
+      "1/2 tsp garam masala": 3,
+      "1 cup yogurt": 2,
+      "1 tsp turmeric": 2,
+      "1 tsp garam masala": 2,
+      "200g paneer": 2
+    },
+    "dietary_patterns": {
+      "e": 17,
+      "a": 17,
+      "n": 14,
+      "v": 10,
+      "g": 10,
+      "t": 7,
+      "r": 7,
+      "i": 7,
+      "o": 2,
+      "-": 2
+    },
+    "meal_complexity": {
+      "easy": 5,
+      "medium": 4,
+      "hard": 1
+    },
+    "flavor_profiles": [],
+    "cooking_frequency_indicators": [],
+    "special_techniques": 

@@ -1,0 +1,28 @@
+# Core machine learning libraries
+torch>=1.9.0
+transformers>=4.20.0
+datasets>=2.0.0
+
+# Data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Additional utilities
+accelerate>=0.20.0
+tokenizers>=0.13.0
+huggingface-hub>=0.15.0
+
+# Optional: For better performance
+# torch-audio  # Uncomment if you need audio processing
+# sentencepiece>=0.1.97  # Uncomment if using SentencePiece tokenizer
+
+# Development and testing (optional)
+# jupyter>=1.0.0
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+
+# For progress bars and logging
+tqdm>=4.62.0
+
+# JSON handling (usually built-in, but just in case)
+# ujson>=4.0.0  # Uncomment for faster JSON processing
